@@ -1,0 +1,6 @@
+Tela Hospedes - Receber - Pagamento:
+	
+ 	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+	
+	F5 = Abre a Tela para Finalizar Pagamento.

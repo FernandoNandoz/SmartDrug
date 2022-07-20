@@ -1,0 +1,7 @@
+Telas de CADASTROS(Usuario, Produto, Clientes, Fornecedor, Funcionario, Cadastros Organizacionais.)
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+
+	Enter = Salvar o Cadastro.
+

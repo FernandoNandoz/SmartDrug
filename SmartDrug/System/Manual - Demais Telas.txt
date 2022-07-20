@@ -1,0 +1,4 @@
+Demais Telas:
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;

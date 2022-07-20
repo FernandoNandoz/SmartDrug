@@ -1,0 +1,15 @@
+
+Tela de Vendas (Nova Venda):
+
+	Esc = Sair ou Fechar a Tela;
+
+ 	TAB = Pula para o proximo campo;
+
+	F1 = Adicionar Produto pelo Nome (Manualmente)
+
+	Shift = Adicionar o Produto Selecionado ao Carrinho (Tela de produtos).
+		Ele so ira funcionar gaundo estiver no campos Desconto.
+
+	F10 = Apaga o produto Selecionado na Tela de Produtos (Carrinho).
+
+	F5 = Abre a tela para Finalizar Venda.

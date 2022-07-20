@@ -1,0 +1,103 @@
+CASO APARECE ALGUMA BUG, OU TENHA ALGUMA DICA!
+
+INFORMA AQUI, PARA QUE EU POSSA VER E MELHORAR AINDA MAIS O SISTEMA!
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+COMANDOS DE BOTÕES:
+
+COMANDOS PARA USABILIDADE DO SISTEMAS!
+
+Tela de Vendas (Nova Venda):
+
+	Esc = Sair ou Fechar a Tela;
+ 	TAB = Pula para o proximo campo;
+
+	F1 = Adicionar Produto pelo Nome (Manualmente)
+
+	Shift = Adicionar o Produto Selecionado ao Carrinho (Tela de produtos).
+		Ele so ira funcionar gaundo estiver no campos Desconto.
+
+	F10 = Apaga o produto Selecionado na Tela de Produtos (Carrinho).
+
+	F5 = Abre a tela para Finalizar Venda.
+
+
+Tela Vendas - Finalizar Venda(F5):
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+
+	Formas de pagamento: 1 = DINHEIRO;
+ 			     2 = DEBITO;
+		      	     3 = CREDITO;
+		      	     4 = ORCAMENTO;
+		      	     5 = CONTAS A RECEBER;
+
+	F5 = Concluir e Finalizar a Venda.
+
+
+Tela Contas a Receber - Receber:
+
+	Esc = Sair ou Fechar a Tela;
+	Enter = Para Pesquisar na Barra de pesquisa;
+	TAB = Pula para o proximo campo;
+	
+	F5 = Abre a Tela para Receber Contas (Finalizar Recebimento).
+	F6 = Abre a Tela para Recebimento de todas as Contas do Clientes
+	     de uma so vez (Pagar Tudo).
+
+Tela Contas a Receber - Receber - Receber Conta(F5):
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+
+	Formas de pagamento: 1 = DINHEIRO;
+ 			     2 = DEBITO;
+		      	     3 = CREDITO;
+
+	F5 = Concluir Recebimento de Conta.
+
+
+Tela Hospedes - Receber - Pagamento:
+	
+ 	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+	
+	F5 = Abre a Tela para Finalizar Pagamento.
+
+Tela Hospeses - Receber - Pagamento - Finalizar Pagamento(F5):
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+
+	Formas de pagamento: 1 = DINHEIRO;
+ 			     2 = DEBITO;
+		      	     3 = CREDITO;
+
+	F5 = Finalizar Pagamento.	
+
+
+Telas de CADASTROS(Usuario, Produto, Clientes, Fornecedor, Funcionario, Cadastros Organizacionais.)
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+
+	Enter = Salvar o Cadastro.
+
+	
+Demais Telas:
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  
+
+

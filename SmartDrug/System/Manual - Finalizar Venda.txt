@@ -1,0 +1,15 @@
+Tela Vendas - Finalizar Venda(F5):
+
+	Esc = Sair ou Fechar a Tela;
+	TAB = Pula para o proximo campo;
+
+	Formas de pagamento: 1 = DINHEIRO;
+ 			     2 = DEBITO;
+		      	     3 = CREDITO;
+		      	     4 = ORCAMENTO;
+		      	     5 = CONTAS A RECEBER;
+
+	F5 = Concluir e Finalizar a Venda.
+
+
+  

@@ -1,0 +1,12 @@
+Tela Contas a Receber - Receber:
+
+	Esc = Sair ou Fechar a Tela;
+	Enter = Para Pesquisar na Barra de pesquisa;
+	TAB = Pula para o proximo campo;
+	
+	F5 = Abre a Tela para Receber Contas (Finalizar Recebimento).
+	F6 = Abre a Tela para Recebimento de todas as Contas do Clientes
+	     de uma so vez (Pagar Tudo).
+
+
+  
